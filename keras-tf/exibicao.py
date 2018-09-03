@@ -21,6 +21,6 @@ def exibe_resultado_teste(predicoes, identificacao_teste):
     '\nIdentificação da classe no teste:', identificacao_teste[0]
   )
 
-def exibe_resultado_teste_misterioso(predicao_misteriosa):
-   print('\nPredição da imagem misteriosa:', np.argmax(predicao_misteriosa))
+def exibe_resultado_teste_primeira_imagem(predicao_primeira_imagem_teste):
+   print('\nPredição de uma imagem de teste:', np.argmax(predicao_primeira_imagem_teste))
 
