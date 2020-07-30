@@ -36,7 +36,7 @@ onboard==1.2.0
 padme==1.1.1
 pandas==0.23.3
 pexpect==4.0.1
-Pillow==6.2.0
+Pillow>=7.1.0
 plainbox==0.25
 protobuf==3.6.0
 ptyprocess==0.5
