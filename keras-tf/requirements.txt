@@ -40,7 +40,7 @@ Pillow>=7.1.0
 plainbox==0.25
 protobuf==5.29.6
 ptyprocess==0.5
-pyasn1==0.1.9
+pyasn1==0.6.3
 pycups==1.9.73
 pycurl==7.43.0
 pygobject==3.20.0
